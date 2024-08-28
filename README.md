@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**lunnaprados/lunnaprados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## olá, tudo bem? 👋
+  Me chamo Lunna Prado,
+ tenho 17 anos.
+ 
+ Estou cursando o terceiro ano do ensino médio, tenho como hobbie predileto a arte, 
+ especificamente a pintura em telas!
+ 
+ Música é algo que eu preciso para fazer qualquer coisa, desenvolvo melhor uma atividade ao som de uma canção!!
+ 
+![](https://media.tenor.com/n5Ie09Ug16cAAAAM/the-simpsons-marge-simpson.gif)
